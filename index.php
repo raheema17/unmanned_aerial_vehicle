@@ -7,7 +7,7 @@
    <!--- Basic Page Needs
    ================================================== -->
 	<meta charset="utf-8">
-	<title>Unmanned Aerial Vehicle</title>
+	<title>Unmanned Aerial Vehicle Sample</title>
 	<meta name="description" content="">
 	<meta name="author" content="">
 
